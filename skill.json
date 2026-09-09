@@ -1,0 +1,13 @@
+{
+  "name": "genpark-sparse-conditional-constant-propagation-sccp-skill",
+  "version": "1.0.0",
+  "description": "Wegman-Zadeck Sparse Conditional Constant Propagation (SCCP) discovering global constants and pruning dead control branches in linear time.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "constant-propagation",
+    "sccp",
+    "compiler-optimization",
+    "dead-code-elimination"
+  ]
+}
